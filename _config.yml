@@ -25,14 +25,14 @@ author:
   name             : "Syed Farhan Ahmad"
   pronouns         : # example: "He/Him"  
   bio              : "Biologist"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Memphis"
+  employer         : "St Jude Children Research Hospital"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=StQH4CMAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
