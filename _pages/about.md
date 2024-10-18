@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Computational Biologist with specialization in Genetics and Genomics. My research focuses on applying bioinformatics tools to analyze genome sequencing data, inorder to understand the roles of non-coding genome elements, such as satellite DNA repeats and transposable elements. I am currently working as a postdoc research fellow at St Jude Children Research Hospital, to investigate repeats expression and regulation under the impact of epigenetic therapies in blood cancers.
+Welcome! I am a Computational Biologist with specialization in Genetics and Genomics. My research focuses on applying bioinformatics tools to analyze genome sequencing data, inorder to understand the roles of non-coding genome elements, such as satellite DNA repeats and transposable elements. I am currently working as a postdoc research fellow at St Jude Children Research Hospital, to investigate repeats expression profiles and their regulation under the impact of epigenetic therapies in cancers.
 
 I earned my PhD in Biological Science (Genetics) from [São Paulo State University, Brazil](https://www.international.unesp.br/), my MS in Biotechnology from [International Islamic University](https://www.iiu.edu.pk/) and my BS honors in Biotechnology from [University of Malakand](https://www.uom.edu.pk/).
 
