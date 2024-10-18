@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Syed Farhan Ahmad"
   pronouns         : # example: "He/Him"  
-  bio              : "Biologist"
+  bio              : "Computational Genome Biologist"
   location         : "Memphis"
   employer         : "St Jude Children Research Hospital"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "syed.ahmad@stjude.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=StQH4CMAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6596-0980"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=SYED+FARHAN+AHMAD"
   researchgate     : # URL
 
   # Repositories and software development
