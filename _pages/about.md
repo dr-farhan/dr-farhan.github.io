@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Computational Biologist with specialization in Genetics and Genomics, applying bioinformatics tools and multi-omics approaches for studying repetitive DNA elements in genomes in order to improve understanding of genome organization, evolution, and function. I am currently working as a postdoc research fellow at St Jude Children Research Hospital, to investigate repeats expression and regulation under the impact of epigenetic therapies in blood cancers.
+Welcome! I am a computational biologist with specialization in genetics and genomics. My research focuses on applying bioinformatics tools to analyze genome sequencing data, inorder to understand the roles of non-coding genome elements, such as satellite DNA repeats and transposable elements. I am currently working as a postdoc research fellow at St Jude Children Research Hospital, to investigate repeats expression and regulation under the impact of epigenetic therapies in blood cancers.
 
 My academic career
 ======
