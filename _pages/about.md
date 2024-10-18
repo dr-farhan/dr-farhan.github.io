@@ -11,7 +11,7 @@ Welcome! I am a computational biologist with specialization in genetics and geno
 
 My academic career
 ======
-I earned my PhD in Biological Science (Genetics) from [São Paulo State University, Brazil](https://www.international.unesp.br/) and my MS in Biotechnology from [International Islamic University](https://www.iiu.edu.pk/). 
+I earned my PhD in Biological Science (Genetics) from [São Paulo State University, Brazil](https://www.international.unesp.br/), my MS in Biotechnology from [International Islamic University](https://www.iiu.edu.pk/) and my BS honors in Biotechnology from [University of Malakand](https://www.uom.edu.pk/). 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
