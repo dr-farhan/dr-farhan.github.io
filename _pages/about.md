@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Computational Biologist with specialization in Genetics and Genomics. My research focuses on applying bioinformatics tools to analyze genome sequencing data, inorder to understand the roles of non-coding genome elements, such as satellite DNA repeats and transposable elements. I am currently working as a postdoc research fellow at St Jude Children Research Hospital, to investigate repeats expression profiles and their regulation under the impact of epigenetic therapies in cancers.
+Welcome! I am a Computational Biologist with a Ph.D. in Genetics, driven by a passion for understanding how the genome evolves, is organized, and functions. My research focuses on applying advanced bioinformatics and genomics tools to analyze Next Generation Sequencing data, with a particular emphasis on uncovering the roles of non-coding genome elements, such as satellite DNA repeats and transposable elements. Currently, I am a postdoctoral research fellow at St. Jude Children’s Research Hospital, investigating repeat expression profiles and their regulation in response to epigenetic therapies in cancer.
 
 I earned my PhD in Biological Science (Genetics) from [São Paulo State University, Brazil](https://www.international.unesp.br/), my MS in Biotechnology from [International Islamic University](https://www.iiu.edu.pk/) and my BS honors in Biotechnology from [University of Malakand](https://www.uom.edu.pk/).
 
 My Research Interests
 ======
 My broad research interests lie in computational genomics with the goal of gaining a
-greater understanding of genomes. My previous research aimed to use comparative
+greater understanding of genome biology. My previous research aimed to use comparative
 genomics, multi-scale omics, computational biology and chromosome biology to identify and study
 genomic elements involved in: Genome organization, evolution, function, sex determination and
 population diversity. I have employed a diverse set of rapidly evolving next generation sequencing (NGS)
