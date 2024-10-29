@@ -1,19 +1,5 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-![image](https://github.com/user-attachments/assets/f8f5ce37-a5fc-4ee8-8e9e-d9c56ce57f59)
 
-
-Welcome! I am a Computational Biologist with a Ph.D. in Genetics, passionate for understanding the evolution, organization, function and regulation of the genome. My research centers on using advanced bioinformatics and genomics tools to analyze Next Generation Sequencing data, with a focus on non-coding elements like satellite DNA repeats and transposable elements (TEs).
-
-During my PhD studies at UNESP, I investigated the genome evolution of non-model organisms, analyzing large scale sequencing data to identify and map several genes and repititive DNA sequences on B chromosomes (extra chromosomes). During my postdoc at Kasetsart University, I studied the genomic organization and role of repeats in sex chromsome evolution across a diverse group of vertebrates genomes. 
-
-Currently, I am a postdoctoral research fellow at St. Jude Children’s Research Hospital, investigating repeat expression profiles and their regulation in response to epigenetic therapies in cancer.
+![image](https://github.com/user-attachments/assets/aff8a07b-c325-44d9-adbe-1714cd6d9d53)
 
 
 My Research Interests
