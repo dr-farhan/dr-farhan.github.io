@@ -1,4 +1,10 @@
-
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ![image](https://github.com/user-attachments/assets/aff8a07b-c325-44d9-adbe-1714cd6d9d53)
 
 
