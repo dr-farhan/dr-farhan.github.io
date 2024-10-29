@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![image](https://github.com/user-attachments/assets/b1aae410-c76c-4000-aaa3-d162df0ab36e)
 
 Welcome! I am a Computational Biologist with a Ph.D. in Genetics, passionate for understanding the evolution, organization, function and regulation of the genome. My research centers on using advanced bioinformatics and genomics tools to analyze Next Generation Sequencing data, with a focus on non-coding elements like satellite DNA repeats and transposable elements (TEs).
 
@@ -38,8 +39,6 @@ genome
 
 My present research involves developing bioinformatic and computational pipelines to study disease-associated non-coding genomic elements. Current projects include "Dissecting the Role of ‘Repeatome’ in Cancer Genomes", and Develop Bioinformatic Methods for Analysis of TE Expression and Regulation by Short- and Long-Reads Sequencing.
 
-
-![image](https://github.com/user-attachments/assets/7f86b227-6b53-4aa1-852b-c92ac228363b)
 
 
 
