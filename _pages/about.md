@@ -37,3 +37,21 @@ genome
 
 
 My present research involves developing bioinformatic and computational pipelines to study disease-associated non-coding genomic elements. Current projects include "Dissecting the Role of ‘Repeatome’ in Cancer Genomes", and Develop Bioinformatic Methods for Analysis of TE Expression and Regulation by Short- and Long-Reads Sequencing.
+
+
+![image](https://github.com/user-attachments/assets/7f86b227-6b53-4aa1-852b-c92ac228363b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
