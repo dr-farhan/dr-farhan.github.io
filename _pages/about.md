@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![image](https://github.com/user-attachments/assets/b1aae410-c76c-4000-aaa3-d162df0ab36e)
+![image](https://github.com/user-attachments/assets/f8f5ce37-a5fc-4ee8-8e9e-d9c56ce57f59)
+
 
 Welcome! I am a Computational Biologist with a Ph.D. in Genetics, passionate for understanding the evolution, organization, function and regulation of the genome. My research centers on using advanced bioinformatics and genomics tools to analyze Next Generation Sequencing data, with a focus on non-coding elements like satellite DNA repeats and transposable elements (TEs).
 
