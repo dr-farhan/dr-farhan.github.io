@@ -27,7 +27,7 @@ navbar-links:
    # Bio: "bio"
    # Bio: "aboutme"
    # Resume: "https://github.com/"
-   About Me: "Aboutme"
+   About Me: "aboutme"
    Research: "research"
    Publications: "publications"
    Presentations: "talks"
