@@ -2,7 +2,7 @@
 
 I am a computational genome biologist with a PhD in Biological Science (Genetics) and currently work as a postdoctoral researcher in genomics. My work centers on unraveling the mysteries of the non-coding genome—focusing particularly on repetitive sequences such as transposable elements (TEs) and satellite DNA—and exploring their roles in genome evolution, function, and human disease.
 
----
+----
 
 ## Research Focus
 
