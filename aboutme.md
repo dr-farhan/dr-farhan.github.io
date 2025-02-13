@@ -1,4 +1,11 @@
-# About Me
+---
+layout: page
+title: About Me
+permalink: /aboutme.md
+---
+
+
+## About Me
 
 I am an enthusiast genome biologist with great passion for genetics, genomics and epigenomics research. 
 My technical expertise as computational biology and bioinformatics with advanced skills in genome data science. My work centers on unraveling the mysteries of the non-coding genome—focusing particularly on repetitive sequences such as transposable elements (TEs) and other non-coding regulatory part of the genome, —and to explore their roles in genome evolution, function, and human disease.
