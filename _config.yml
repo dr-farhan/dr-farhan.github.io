@@ -24,13 +24,11 @@ description: "Postdoc Fellow @St Jude, PhD (Genetics)"
 
 # List of links in the navigation bar
 navbar-links:
-   # Bio: "bio"
-   # Bio: "aboutme"
-   # Resume: "https://github.com/"
-   About Me: "aboutme.md"
+   About Me: "aboutme"  # Changed from "aboutme.md"
    Research: "research"
    Publications: "publications"
    Presentations: "talks"
+   # ... rest of the links ...
    #Press: "press"   
    #Awards: "awards"
    #Outreach: "services"
