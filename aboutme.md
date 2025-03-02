@@ -22,9 +22,11 @@ Most of my research leverages next generation sequencing data and advanced genom
 - **Population Genomics:** Analyzing genome-wide SNPs to assess population diversity and understand evolutionary dynamics.
 
 
-
 I am currently leading research projects aimed at deciphering the interplay between transposable elements and cancer. 
+
 
 ## Professional Commitment
 
 My work is driven by a passion for scientific discovery and a dedication to making meaningful contributions in the field of genomics. I strive to advance our understanding of genome structure and function with the ultimate aim of translating these insights into improved human health outcomes.
+
+
