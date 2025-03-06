@@ -24,7 +24,7 @@ description: "Postdoc Fellow @St Jude, PhD (Genetics)"
 
 # List of links in the navigation bar
 navbar-links:
-   About Me: "aboutme"  # Changed from "aboutme.md"
+   About Me: "dr-farhan.github.io/aboutme.html"  # Changed from "aboutme.md"
    Research: "research"
    Publications: "publications"
    Presentations: "talks"
