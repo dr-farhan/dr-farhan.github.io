@@ -21,7 +21,7 @@ navbar-links:
     - GitHub: "https://github.com/dr-farhan"
     - Research Software: "https://github.com/dr-farhan?tab=repositories"
     - Ongoing Work: "research#current-research"
-  CV: "/files/Farhan_Ahmad_CV.pdf"
+  CV: "files/Farhan_Ahmad_CV.pdf"
   Contact: "contact"
 
 avatar: "/img/farhan.jpeg"
