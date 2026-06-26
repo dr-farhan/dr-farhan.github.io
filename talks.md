@@ -7,7 +7,7 @@ css:
 ---
 
 <section markdown="1" class="profile-section compact-top">
-  <p class="lead">This page is ready for your seminar, conference, and poster history. Add dates, venues, titles, and links as your presentation list grows.</p>
+  <p class="lead">This page is under development for my seminar, conference, and poster history. Add dates, venues, titles, and links as my presentation list grows.</p>
 </section>
 
 <section markdown="1" class="profile-section">
