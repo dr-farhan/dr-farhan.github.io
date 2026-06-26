@@ -1,0 +1,42 @@
+# Social link definitions used by _includes/footer.html
+# Each key must match a key in _config.yml -> social-network-links.
+
+facebook:
+  name: "Facebook"
+  baseURL: "https://www.facebook.com/"
+  icon: "fa-facebook"
+
+github:
+  name: "GitHub"
+  baseURL: "https://github.com/"
+  icon: "fa-github"
+
+twitter:
+  name: "X / Twitter"
+  baseURL: "https://twitter.com/"
+  icon: "fa-twitter"
+
+email:
+  name: "Email"
+  baseURL: "mailto:"
+  icon: "fa-envelope"
+
+linkedin:
+  name: "LinkedIn"
+  baseURL: "https://linkedin.com/in/"
+  icon: "fa-linkedin"
+
+google-scholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.com/citations?hl=en&user="
+  icon: "fa-graduation-cap"
+
+orcid:
+  name: "ORCID"
+  baseURL: "https://orcid.org/"
+  icon: "fa-flask"
+
+rss:
+  name: "RSS"
+  baseURL: ""
+  icon: "fa-rss"
