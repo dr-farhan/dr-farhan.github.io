@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-subtitle: "Collaboration and professional links"
+subtitle: "Research opportunities and scientific collaboration"
 css:
   - "/css/profile.css"
 ---
@@ -9,7 +9,7 @@ css:
 <section markdown="1" class="profile-section compact-top two-column-section">
   <div>
     <h2>Get in touch</h2>
-    <p>I welcome conversations about repeat biology, computational genomics, cancer genomics, multi-omics analysis, genome assembly, and collaborative software or pipeline development.</p>
+    <p>I welcome conversations about research scientist and staff scientist opportunities, as well as collaborations in computational genomics, cancer epigenomics, repeat biology, and reproducible analysis workflows.</p>
     <p><strong>Email:</strong> <a href="mailto:syed.ahmad@stjude.edu">syed.ahmad@stjude.edu</a></p>
   </div>
   <div class="callout-box">

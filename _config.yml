@@ -17,10 +17,7 @@ navbar-links:
   Research: "research"
   Publications: "publications"
   Talks: "talks"
-  Projects:
-    - GitHub: "https://github.com/dr-farhan"
-    - Research Software: "https://github.com/dr-farhan?tab=repositories"
-    - Ongoing Work: "research#current-research"
+  Software: "industry"
   CV: "files/Farhan_Ahmad_CV.pdf"
   Contact: "contact"
 
@@ -83,7 +80,7 @@ defaults:
       path: ""
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
 link-tags: true
 

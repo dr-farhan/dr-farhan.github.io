@@ -1,39 +1,25 @@
 ---
 layout: page
 title: "Publications"
-subtitle: "Selected publications and profiles"
+subtitle: "Selected peer-reviewed work and authorship contributions"
 css:
   - "/css/profile.css"
 ---
-
-<section markdown="1" class="profile-section compact-top">
-  <p class="lead">For the full and most current list, please visit my <a href="https://scholar.google.com/citations?hl=en&user=StQH4CMAAAAJ">Google Scholar</a> and <a href="https://orcid.org/0000-0002-6596-0980">ORCID</a> profiles.</p>
+<section class="profile-section compact-top">
+<p class="lead">Selected work in cancer genomics, chromosome biology, and genome evolution.</p>
+<p>My name is highlighted below. Equal-first and equal-corresponding authorship roles are identified as listed in my CV.</p>
+<div class="button-row"><a class="btn btn-primary btn-profile" href="https://scholar.google.com/citations?hl=en&amp;user=StQH4CMAAAAJ">Full list on Google Scholar</a><a class="btn btn-default btn-profile" href="https://orcid.org/0000-0002-6596-0980">ORCID</a></div>
 </section>
-
-<section markdown="1" class="profile-section publication-list">
-
-## Selected publications
-
-1. **Jehangir M., Ahmad S.F., Oliveira J.I.N., Cardoso A.L., Wolf I.R., Valente G.T., Srikulnath K., Martins C., et al.** Genome assembly of *Astatotilapia latifasciata* uncovers B chromosome–linked chromatin reorganization. *Heredity* (2026). [DOI: 10.1038/s41437-026-00847-4](https://doi.org/10.1038/s41437-026-00847-4)
-
-2. **Lee M. Jr., Ahmad S.F., Xu J.** Regulation and function of transposable elements in cancer genomes. *Cellular and Molecular Life Sciences* 81, 2024. [DOI: 10.1007/s00018-024-05195-2](https://doi.org/10.1007/s00018-024-05195-2)
-
-3. **Ahmad S.F., Singchat W., Jehangir M., Suntronpong A., Panthum T., Malaivijitnond S., Srikulnath K.** Dark Matter of Primate Genomes: Satellite DNA Repeats and Their Evolutionary Dynamics. *Cells* 9(12), 2714 (2020). [DOI: 10.3390/cells9122714](https://doi.org/10.3390/cells9122714)
-
-4. **Ahmad S.F., Singchat W., Jehangir M., Panthum T., Srikulnath K.** Consequence of Paradigm Shift with Repeat Landscapes in Reptiles: Powerful Facilitators of Chromosomal Rearrangements for Diversity and Evolution. *Genes* 11(7), 827 (2020). [DOI: 10.3390/genes11070827](https://doi.org/10.3390/genes11070827)
-
-5. **Ahmad S.F., Martins C.** The Modern View of B Chromosomes Under the Impact of High Scale Omics Analyses. *Cells* 8(2), 156 (2019). [DOI: 10.3390/cells8020156](https://doi.org/10.3390/cells8020156)
-
+<section class="profile-section publication-list" aria-label="Selected publications">
+<article class="publication-entry"><p class="entry-meta">2026 · Coauthor</p><h2><a href="https://doi.org/10.1038/s41437-026-00847-4">Genome assembly of <em>Astatotilapia latifasciata</em> uncovers B chromosome-linked chromatin reorganization.</a></h2><p class="authors">Jehangir M, <strong>Ahmad SF</strong>, Oliveira JIN, Cardoso AL, Wolf IR, Valente GT, Srikulnath K, Martins C.</p><p><em>Heredity</em> (2026).</p></article>
+<article class="publication-entry"><p class="entry-meta">2024 · Coauthor · Review</p><h2><a href="https://doi.org/10.1007/s00018-024-05195-2">Regulation and function of transposable elements in cancer genomes.</a></h2><p class="authors">Lee M Jr, <strong>Ahmad SF</strong>, Xu J.</p><p><em>Cellular and Molecular Life Sciences 81:157</em> (2024).</p></article>
+<article class="publication-entry"><p class="entry-meta">2023 · Equal first author</p><h2><a href="https://doi.org/10.1007/s10577-023-09744-6">Hi-C sequencing unravels dynamic three-dimensional chromatin interactions in muntjac lineage: insights from chromosome fusions in Fea’s muntjac genome.</a></h2><p class="authors">Jehangir M, <strong>Ahmad SF</strong>, Singchat W, Panthum T, Thong T, Aramsirirujiwet P, Lisachov A, Muangmai N, Han K, Koga A, Duengkae P, Srikulnath K.</p><p><em>Chromosome Research 31:34</em> (2023).</p></article>
+<article class="publication-entry"><p class="entry-meta">2022 · First author · Review</p><h2><a href="https://doi.org/10.1007/s11160-021-09691-7">Fish genomics and its impact on vertebrate biology.</a></h2><p class="authors"><strong>Ahmad SF</strong>, Jehangir M, Srikulnath K, Martins C.</p><p><em>Reviews in Fish Biology and Fisheries 32:357–385</em> (2022).</p></article>
+<article class="publication-entry"><p class="entry-meta">2022 · Equal corresponding author</p><h2><a href="https://doi.org/10.3389/fevo.2022.850817">Genome of <em>Varanus salvator macromaculatus</em> (Asian water monitor) reveals adaptations in the blood coagulation and innate immune system.</a></h2><p class="authors">Chetruengchai W, Singchat W, Srichomthong C, Assawapitaksakul A, Srikulnath K, <strong>Ahmad SF</strong>, Phokaew C, Shotelersuk V.</p><p><em>Frontiers in Ecology and Evolution 10:850817</em> (2022).</p></article>
+<article class="publication-entry"><p class="entry-meta">2022 · Equal first author</p><h2><a href="https://pubmed.ncbi.nlm.nih.gov/35741082/">Population-scale analysis of centromeric satellite DNA reveals highly dynamic evolutionary patterns and genomic organization in long-tailed and rhesus macaques.</a></h2><p class="authors">Singchat W, <strong>Ahmad SF</strong>, Jaisamut K, Panthum T, Ariyaraphong N, Kraichak E, Muangmai N, Duengkae P, Payungporn S, Malaivijitnond S, Srikulnath K.</p><p><em>Cells 11(12):1953</em> (2022).</p></article>
+<article class="publication-entry"><p class="entry-meta">2020 · First author</p><h2><a href="https://doi.org/10.1186/s12864-020-07072-1">B chromosomes of multiple species have intense evolutionary dynamics and accumulated genes related to important biological processes.</a></h2><p class="authors"><strong>Ahmad SF</strong>, Jehangir M, Cardoso AL, Wolf IR, Margarido VP, Cabral-de-Mello DC, O’Neill R, Valente GT, Martins C.</p><p><em>BMC Genomics 21:656</em> (2020).</p></article>
+<article class="publication-entry"><p class="entry-meta">2020 · First author · Review</p><h2><a href="https://doi.org/10.3390/cells9122714">Dark matter of primate genomes: satellite DNA repeats and their evolutionary dynamics.</a></h2><p class="authors"><strong>Ahmad SF</strong>, Singchat W, Jehangir M, Suntronpong A, Panthum T, Malaivijitnond S, Srikulnath K.</p><p><em>Cells 9(12):2714</em> (2020).</p></article>
+<article class="publication-entry"><p class="entry-meta">2020 · First author · Review</p><h2><a href="https://doi.org/10.3390/genes11070827">Consequence of paradigm shift with repeat landscapes in reptiles: powerful facilitators of chromosomal rearrangements for diversity and evolution.</a></h2><p class="authors"><strong>Ahmad SF</strong>, Singchat W, Jehangir M, Panthum T, Srikulnath K.</p><p><em>Genes 11(7):827</em> (2020).</p></article>
+<article class="publication-entry"><p class="entry-meta">2019 · First author · Review</p><h2><a href="https://doi.org/10.3390/cells8020156">The modern view of B chromosomes under the impact of high-scale omics analyses.</a></h2><p class="authors"><strong>Ahmad SF</strong>, Martins C.</p><p><em>Cells 8(2):156</em> (2019).</p></article>
 </section>
-
-<section markdown="1" class="profile-section">
-
-## Research profiles
-
-<div class="button-row">
-  <a class="btn btn-primary btn-profile" href="https://scholar.google.com/citations?hl=en&user=StQH4CMAAAAJ">Google Scholar</a>
-  <a class="btn btn-default btn-profile" href="https://orcid.org/0000-0002-6596-0980">ORCID</a>
-  <a class="btn btn-default btn-profile" href="https://pubmed.ncbi.nlm.nih.gov/?term=Syed+Farhan+Ahmad">PubMed search</a>
-</div>
-
-</section>
+<section class="profile-section"><p>Conference abstracts and oral presentations are listed separately on the <a href="{{ site.baseurl }}/talks">Talks &amp; Presentations page</a>.</p></section>

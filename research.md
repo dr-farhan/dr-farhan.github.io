@@ -1,57 +1,76 @@
 ---
 layout: page
 title: "Research"
-subtitle: "Repeat biology, genome regulation, and cancer genomics"
+subtitle: "Scientific questions, contributions, and research outputs"
 css:
   - "/css/profile.css"
 ---
 
 <section markdown="1" class="profile-section compact-top">
+I investigate the repetitive genome across cancer biology and chromosome evolution. My work connects computational methods with biological questions through sequencing analysis, comparative genomics, and collaboration with experimental researchers.
 
-## Overview: the non-coding “dark genome”
-
-My research focuses on the less-explored repetitive fraction of the genome: transposable elements, satellite repeats, endogenous retroviral sequences, and other non-coding repeat classes that were historically dismissed as “junk DNA” but are now recognized as major contributors to genome evolution, gene regulation, chromatin structure, and disease.
-
-I use high-throughput sequencing and computational genomics to study how repetitive elements influence gene expression, chromatin accessibility, epigenetic state, genome architecture, and disease-relevant regulatory programs.
-
+[Research software]({{ site.baseurl }}/industry) · [Selected publications]({{ site.baseurl }}/publications)
 </section>
 
-<section markdown="1" class="profile-section" id="current-research">
+<section markdown="1" class="profile-section research-case" id="current-research">
+<span id="leukemia" class="anchor-target"></span>
+<p class="entry-meta">Ongoing research · St. Jude Children’s Research Hospital</p>
 
-## Current research
+## Retrotransposon-mediated viral mimicry in leukemia
 
-### Transposable elements and leukemia biology
+**Question.** How do retrotransposons contribute to viral mimicry responses during hypomethylation therapy in leukemia?
 
-At St. Jude, my current work focuses on the regulation and function of transposable elements in cancer, with special interest in how LINE-1 and other repeat classes are controlled epigenetically and how repeat reactivation may influence leukemia cell fitness, immune signaling, and therapeutic response.
+**My work.** In the Jian Xu Lab, I study repetitive-element regulation in cancer using transcriptomic and epigenomic analyses. I am the first author of the 2025 ASH conference abstract on this project and presented the work orally.
 
-### Multi-omics analysis of repeat regulation
+**Approach.** Repeat-aware expression analysis and integration of RNA-seq, DNA methylation, and chromatin data provide a framework for investigating repeat regulation and therapy-associated responses.
 
-I integrate RNA-seq, epigenomic profiling, chromatin accessibility, genome annotations, and public cancer genomics resources to study repeat-derived regulatory activity at both locus and family levels.
+**Research output.** *Elucidating the role of retrotransposon-mediated viral mimicry in leukemia therapy*, 67th ASH Annual Meeting and Exposition, December 8, 2025; *Blood* 146(Suppl 1):774. Recognition: **2025 ASH Abstract Achievement Award**. Further presentations followed at the 2026 Cancer Center Postdoctoral Symposium and Pathology Research Symposium. This project is ongoing; the linked output is a conference abstract.
 
-### Computational method and workflow development
+[ASH abstract](https://doi.org/10.1182/blood-2025-774) · [Presentation history]({{ site.baseurl }}/talks)
+</section>
 
-A major goal of my work is to develop reproducible bioinformatics workflows for repeat-aware genomics, including annotation, quantification, visualization, and interpretation of repetitive-element activity in large-scale datasets.
+<section markdown="1" class="profile-section research-case" id="b-chromosomes">
+<p class="entry-meta">Published research · First author</p>
 
+## Genetic content and evolution of B chromosomes
+
+**Question.** Which genes and repetitive sequences accumulate on B chromosomes, and are these patterns shared across species?
+
+**My contribution.** I co-designed the study, contributed to the bioinformatics methodology, sequencing-data analysis and experimental data, and co-wrote the manuscript with Cesar Martins, as documented in the paper’s author contributions.
+
+**Approach.** We compared genomes with and without B chromosomes in two fish species and a grasshopper, using sequencing coverage to identify B-associated regions and characterize their gene and repeat content.
+
+**Finding.** The study identified repeat-rich B chromosome segments containing gene fragments and some complete genes, together with patterns of duplication and rearrangement. These results support further investigation of B chromosome function.
+
+**Output.** Ahmad SF et al. *BMC Genomics* (2020), 21:656. Sequencing data and assemblies were deposited under BioProject PRJNA606808.
+
+[Paper and author contributions](https://pmc.ncbi.nlm.nih.gov/articles/PMC7509943/) · [Public data](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA606808)
+</section>
+
+<section markdown="1" class="profile-section research-case" id="chromatin">
+<p class="entry-meta">Published research · Equal first author</p>
+
+## Chromosome fusions and 3D genome organization
+
+**Question.** How do chromosome fusions relate to chromatin organization in Fea’s muntjac and related species?
+
+**My role.** I contributed as an equal first author with Maryam Jehangir to a collaborative study of muntjac chromosome evolution.
+
+**Approach.** The study used Hi-C sequencing and comparative chromatin-contact maps to examine chromosome fusions, sex-chromosome relationships, and topologically associating domains.
+
+**Finding.** Comparative maps revealed chromosome-fusion patterns and differences in chromatin organization across species. The study generated a Hi-C resource for Fea’s muntjac and proposed a possible association between abundant transposable elements and repeated fusions.
+
+**Output.** Jehangir M, Ahmad SF et al. *Chromosome Research* (2023), 31:34.
+
+[Paper](https://doi.org/10.1007/s10577-023-09744-6) · [Publication record and equal-contribution designation](https://pubmed.ncbi.nlm.nih.gov/38017297/)
 </section>
 
 <section markdown="1" class="profile-section">
+## Methods and research breadth
 
-## Previous work
+- **Cancer and repeat genomics:** RNA-seq, repeat annotation and quantification, DNA methylation, ATAC-seq, and ChIP-seq.
+- **Genome evolution:** genome assembly, comparative genomics, satellite DNA, and chromosome biology.
+- **Computational workflows:** Python, R, Bash, HPC, and documented Snakemake workflows.
 
-My doctoral and collaborative research investigated the evolutionary dynamics of repetitive DNA, including B chromosome biology, satellite DNA, and repeat landscapes across vertebrate genomes. This work combined comparative genomics, cytogenomics, genome assembly, and repeat annotation to understand how repetitive elements contribute to chromosome structure and genome evolution.
-
-</section>
-
-<section markdown="1" class="profile-section">
-
-## Future interests
-
-I am interested in building next-generation resources and methods for repeat-aware genome biology, including:
-
-- Locus-resolved analysis of transposable-element regulation.
-- Multi-omics integration for cancer genomics and chromatin biology.
-- Long-read and pangenome-aware approaches to repetitive DNA.
-- Comparative genomics resources for chromosome and repeat evolution.
-- Reproducible, scalable workflows for biomedical genomics.
-
+[Inspect my public workflows]({{ site.baseurl }}/industry) · [Training and appointments]({{ site.baseurl }}/aboutme)
 </section>

@@ -2,11 +2,13 @@
 layout: base
 ---
 
-{% include header.html type="page" %}
+{% unless page.home %}
+  {% include header.html type="page" %}
+{% endunless %}
 
-<div class="container" role="main">
+<div class="container profile-main{% if page.home %} profile-home{% endif %}" role="main" id="main-content">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-md-12">
       {{ content }}
 	    {% if page.comments %}
         <div class="disqus-comments">

@@ -1,8 +1,8 @@
-<nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+<nav class="navbar navbar-default navbar-sticky navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
       <!-- Mobile menu toggle button -->
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar" aria-expanded="false">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navbar" aria-expanded="false" aria-controls="main-navbar">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -40,29 +40,6 @@
         {% endfor %}
       </ul>
     </div>
-
-    <!-- Avatar section -->
-    {% assign show_avatar = layout.show-avatar %}
-    {% if page.show-avatar %}
-      {% assign show_avatar = page.show-avatar %}
-    {% endif %}
-    {% if page.image and show_avatar %}
-      <div class="avatar-container">
-        <div class="avatar-img-border">
-          <a href="{{ site.baseurl }}/">
-            <img class="avatar-img" src="{{ page.image | prepend: site.baseurl | replace: '//', '/' }}" alt="Avatar">
-          </a>
-        </div>
-      </div>
-    {% elsif site.avatar and show_avatar %}
-      <div class="avatar-container">
-        <div class="avatar-img-border">
-          <a href="{{ site.baseurl }}/">
-            <img class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" alt="Site Avatar">
-          </a>
-        </div>
-      </div>
-    {% endif %}
 
   </div>
 </nav>
